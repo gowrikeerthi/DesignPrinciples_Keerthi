@@ -1,0 +1,1 @@
+# Krupani_DesignPrinciples
